@@ -12,4 +12,4 @@ This dataset represents daily air quality measurements in the United States for 
 2. **epa/Datathon_EPA_Air_Quality_Demographics_Meteorology_2020.xlsx**
     - Original dataset for Datathon. Has data for 2020 for 50 states.
 3. **data/df_preprocessed.csv**
-    - Outputed from 01_preprocessing. Merged 2019 and 2020 dataset. Filtered to just LA and Riverside. Dropped irrelevant columns such as demographics, geographical data, and data with too many sparse points.
+    - Output from 01_preprocessing. Merged 2019 and 2020 dataset. Filtered to just LA and Riverside. Dropped irrelevant columns such as demographics, geographical data, and data with too many sparse points.
